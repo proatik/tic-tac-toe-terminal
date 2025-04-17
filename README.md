@@ -46,6 +46,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+For Windows users, a standalone executable is available:
+No Python installation required for the executable version. Here is the [`executable file`](windows/tic-tac-toe.exe)
+
 ## 🕹️ Controls
 
 - `↑`: Move up
